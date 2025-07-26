@@ -1,13 +1,16 @@
 ---
 layout: page
-title: submenus
+title: art
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: illustration
+    permalink: /illustration/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: animation
+    permalink: /animation/
+  - title: divider
+  - title: character design
+    permalink: /character/
 ---
