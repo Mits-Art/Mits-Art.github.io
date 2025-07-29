@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Mits-Art.github.io/sitemap.xml
+Sitemap: https://kaivey-art.github.io/sitemap.xml
